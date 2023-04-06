@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.5da4dd1a.css",
+    "main.js": "/portfolio-website/static/js/main.8b2b0174.js",
+    "static/media/igorntwali.pdf": "/portfolio-website/static/media/igorntwali.c7e9d1653a4d30954498.pdf",
+    "static/media/ceo.jpg": "/portfolio-website/static/media/ceo.3cb00ac72b11676c7c41.jpg",
+    "static/media/me-about.jpg": "/portfolio-website/static/media/me-about.5f72627a5cb25824a067.jpg",
+    "index.html": "/portfolio-website/index.html",
+    "main.5da4dd1a.css.map": "/portfolio-website/static/css/main.5da4dd1a.css.map",
+    "main.8b2b0174.js.map": "/portfolio-website/static/js/main.8b2b0174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5da4dd1a.css",
+    "static/js/main.8b2b0174.js"
+  ]
+}
